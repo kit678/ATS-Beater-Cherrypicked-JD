@@ -3,6 +3,7 @@ Designed to scan job-description for words/phrases that represent either a profe
 
 This version takes in a text file with cherry-picked job-url's. The program fetches htmls and executes xpaths to populate jd dataframe.
 
+See example input (.txt) and output (.csv)
 
 # Caveats / Improvement Scope
 Hardcoded file directories
